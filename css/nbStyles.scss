@@ -1,3 +1,7 @@
+h2 {
+  font-weight: 300;
+}
+
 #header {
   background-color: #201f22;
 
@@ -21,9 +25,25 @@
   }
 }
 
+section.banner {
+  background-color: #3c413a;
+  height: 100vh;
+}
+
 #banner {
   .banner-img {
-    max-width: 320px;
+    max-width: 310px;
+  }
+
+  .banner-text {
+    padding-top: 50%;
+
+    p {
+      font-size: 21px;
+      line-height: 33px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 100;
+    }
   }
 }
 .banner {
@@ -31,6 +51,21 @@
 }
 
 #overview {
+  .points {
+    li {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300;
+      line-height: 21px;
+      font-size: 16px;
+      letter-spacing: 1px;
+      margin-bottom: 14px;
+    }
+  }
+
+  hr {
+    width: 60%;
+  }
+
   .micon {
     width: 60px;
     margin-bottom: 20px;
@@ -48,17 +83,44 @@
   }
 }
 
-#whatweoffer {
+.benefits-section {
   .features2-content {
     li {
       font-size: 20px;
       margin-bottom: 10px;
     }
   }
+
+  .benefits-img {
+    width: 50%;
+  }
+}
+
+#benefits_governments {
+  background-color: #f2f2f2;
+
+  .features2-content {
+    margin-left: 12%;
+  }
 }
 
 #download {
   .overlay {
     background-color: rgba(34, 90, 11, 0.9);
+  }
+}
+
+@media (max-width: 992px) {
+  .benefits-section {
+    .features2-content {
+      li {
+        font-size: 20px;
+        margin-bottom: 10px;
+      }
+    }
+
+    .benefits-img {
+      width: 50%;
+    }
   }
 }
