@@ -3,6 +3,7 @@ h2 {
 }
 
 #header {
+  top: 0;
   background-color: #201f22;
 
   .header-content {
@@ -12,9 +13,24 @@ h2 {
       // -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
       // filter: grayscale(100%);
       margin-left: 1em;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
 
       img {
         width: 100px;
+        height: 75px;
+      }
+
+      p {
+        font-size: 13px;
+        width: 210px;
+        margin-left: 20px;
+        color: #dadada;
+        font-weight: 100;
+        letter-spacing: 1px;
+        line-height: 18px;
+        margin-bottom: 2px;
       }
     }
   }
@@ -26,13 +42,16 @@ h2 {
 }
 
 section.banner {
-  background-color: #3c413a;
-  height: 100vh;
+  background-color: grey;
+  // height: 100vh;
+  min-height: inherit;
 }
 
 #banner {
+  display: none;
+
   .banner-img {
-    max-width: 310px;
+    max-width: 320px;
   }
 
   .banner-text {
@@ -46,8 +65,61 @@ section.banner {
     }
   }
 }
-.banner {
-  background-color: #2e7d32;
+
+.topSlider {
+  .mySlides {
+    height: calc(100vh - 95px);
+    width: 100%;
+    margin-top: 95px;
+    background-image: url('../images/banner-bg2.jpg');
+    background-size: cover;
+
+    .mySlidesInner {
+      background-color: rgba(0, 0, 0, 0.64);
+      height: calc(100vh - 95px);
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+
+  img {
+    max-height: calc(100vh - 195px);
+  }
+
+  .features2-content {
+    margin-top: 0;
+
+    .section-title {
+      color: white;
+    }
+
+    ul {
+      color: white;
+    }
+  }
+
+  .w3-display-left {
+    position: absolute;
+    left: 0;
+    top: 40vh;
+    background: none;
+    border: none;
+    font-size: 6em;
+    color: #adaaaa6b;
+  }
+
+  .w3-display-right {
+    position: absolute;
+    right: 0;
+    top: 40vh;
+    background: none;
+    border: none;
+    font-size: 6em;
+    color: #adaaaa6b;
+  }
 }
 
 #overview {
@@ -110,17 +182,45 @@ section.banner {
   }
 }
 
-@media (max-width: 992px) {
-  .benefits-section {
-    .features2-content {
-      li {
-        font-size: 20px;
-        margin-bottom: 10px;
+@media (max-width: 700px) {
+  .topSlider {
+    .mySlides .mySlidesInner {
+      flex-direction: column;
+
+      .left {
+        padding-right: 0;
+      }
+
+      .right {
+        padding-left: 0;
+      }
+
+      .features2-content {
+        text-align: center;
+        margin-bottom: 2em;
+
+        .section-title {
+          font-size: 24px;
+          margin-bottom: 0;
+        }
       }
     }
 
-    .benefits-img {
-      width: 50%;
+    img {
+      max-height: calc(100vh - 375px);
+      margin-bottom: 2em;
     }
   }
+  // .benefits-section {
+  //   .features2-content {
+  //     li {
+  //       font-size: 20px;
+  //       margin-bottom: 10px;
+  //     }
+  //   }
+
+  //   .benefits-img {
+  //     width: 50%;
+  //   }
+  // }
 }
