@@ -75,7 +75,7 @@ section.banner {
     background-size: cover;
 
     .mySlidesInner {
-      background-color: rgba(0, 0, 0, 0.64);
+      background-color: rgba(0, 0, 0, 0.89);
       height: calc(100vh - 95px);
       width: 100%;
       display: flex;
@@ -178,7 +178,18 @@ section.banner {
 
 #download {
   .overlay {
-    background-color: rgba(34, 90, 11, 0.9);
+    background-color: rgba(17, 44, 6, 0.9);
+  }
+  .line {
+    margin: 0 !important;
+    margin-top: 5px !important;
+    font-size: 18px !important;
+    font-weight: 100 !important;
+  }
+
+  .line2 {
+    margin-top: 10px !important;
+    font-size: 23px !important;
   }
 }
 
@@ -223,4 +234,16 @@ section.banner {
   //     width: 50%;
   //   }
   // }
+}
+
+.conForm {
+  input {
+    padding: 10px;
+    font-weight: 300;
+  }
+
+  textarea {
+    padding: 10px;
+    font-weight: 300;
+  }
 }
