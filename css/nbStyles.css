@@ -269,5 +269,11 @@ section.banner {
   #technology .features1-content p {
     text-align: center;
     padding: 0 20px; } }
+@media (max-width: 1024px) {
+  #header .navigation ul {
+    flex-direction: column; }
+
+  #header .navigation .contactinfo {
+    margin-left: 0px; } }
 
 /*# sourceMappingURL=nbStyles.css.map */

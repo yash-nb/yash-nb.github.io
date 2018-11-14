@@ -455,3 +455,13 @@ section.banner {
     padding: 0 20px;
   }
 }
+
+@media (max-width: 1024px) {
+  #header .navigation ul {
+    flex-direction: column;
+  }
+
+  #header .navigation .contactinfo {
+    margin-left: 0px;
+  }
+}
