@@ -35,11 +35,11 @@ $(document).ready(function() {
     x[slideIndex - 1].style.display = 'block'
   }
 
-  setInterval(() => {
-    if (sliderLive) {
-      plusDivsForward()
-    }
-  }, 5000)
+  // setInterval(() => {
+  //   if (sliderLive) {
+  //     plusDivsForward()
+  //   }
+  // }, 5000)
 
   // Email submission form
   function submitEmailAddress() {
