@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/market-opp.92d88efc.png"
   },
   {
-    "revision": "d3f04e2859c0134b3329",
+    "revision": "972b411845d6a42ac437",
     "url": "/static/css/main.81d93dcc.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "url": "/static/media/futura light bt.98d2f973.ttf"
   },
   {
-    "revision": "3ea9695ee3af8a5e17413f22249f361a",
-    "url": "/static/media/Futura Heavy font.3ea9695e.ttf"
-  },
-  {
     "revision": "9a1626276b430d216809407c3fbcda75",
     "url": "/static/media/futur.9a162627.ttf"
+  },
+  {
+    "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
+    "url": "/static/media/Futura Book font.f9f02ed0.ttf"
   },
   {
     "revision": "ee64fb9d3f1ba2333e1b489283925bce",
     "url": "/static/media/futura medium bt.ee64fb9d.ttf"
   },
   {
-    "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
-    "url": "/static/media/Futura Book font.f9f02ed0.ttf"
+    "revision": "3ea9695ee3af8a5e17413f22249f361a",
+    "url": "/static/media/Futura Heavy font.3ea9695e.ttf"
   },
   {
     "revision": "36c249f941086c355d58895812c49f5f",
@@ -44,20 +44,20 @@ self.__precacheManifest = [
     "url": "/static/media/logo.e50cbe76.png"
   },
   {
-    "revision": "cc23edf6d169ffe720c72ac660175b32",
-    "url": "/static/media/demoImg.cc23edf6.png"
+    "revision": "dcc63f9a6cb431c5deafc2dd3b1a4d66",
+    "url": "/static/media/demoImg.dcc63f9a.png"
   },
   {
     "revision": "633393457389f1e2d44dcd14c87cb416",
     "url": "/static/media/section2-left.63339345.png"
   },
   {
-    "revision": "d3f04e2859c0134b3329",
-    "url": "/static/js/main.d3f04e28.chunk.js"
+    "revision": "972b411845d6a42ac437",
+    "url": "/static/js/main.972b4118.chunk.js"
   },
   {
-    "revision": "60c518a5eddfbe261b7aef42dc147498",
-    "url": "/static/media/forCultivators.60c518a5.png"
+    "revision": "d1e7be1e37510f941ff5843f32ef5430",
+    "url": "/static/media/forCultivators.d1e7be1e.png"
   },
   {
     "revision": "4eacf81ab921c033e27026d79405c5a0",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/media/btmImg.471c5f35.png"
   },
   {
-    "revision": "2ddec36fa8a46478099502460cd664f8",
+    "revision": "88a49895c8b1c94d2059ff95b0f16115",
     "url": "/index.html"
   }
 ];
