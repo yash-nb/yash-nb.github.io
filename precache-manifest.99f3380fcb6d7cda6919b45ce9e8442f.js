@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "36c249f941086c355d58895812c49f5f",
-    "url": "/static/media/jumbo.36c249f9.png"
+    "revision": "ccc327eaefb728fbe5fa1f151c8d7f30",
+    "url": "/static/media/contactForm-bg-logo.ccc327ea.png"
   },
   {
-    "revision": "d0c75347f7fbd237a908",
-    "url": "/static/css/main.e2d47282.chunk.css"
+    "revision": "0a00c772e65385476877",
+    "url": "/static/css/main.11222eaf.chunk.css"
   },
   {
-    "revision": "59bb1bc3db25a88583c4",
-    "url": "/static/js/1.59bb1bc3.chunk.js"
+    "revision": "e442165fe57d30520c20",
+    "url": "/static/js/1.e442165f.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -32,12 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/futura light bt.98d2f973.ttf"
   },
   {
-    "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
-    "url": "/static/media/Futura Book font.f9f02ed0.ttf"
+    "revision": "4a3d46ce44b11a8781b84bb139c1f852",
+    "url": "/static/media/Futura-Bold.4a3d46ce.woff"
   },
   {
     "revision": "ee64fb9d3f1ba2333e1b489283925bce",
     "url": "/static/media/futura medium bt.ee64fb9d.ttf"
+  },
+  {
+    "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
+    "url": "/static/media/Futura Book font.f9f02ed0.ttf"
   },
   {
     "revision": "3ea9695ee3af8a5e17413f22249f361a",
@@ -52,16 +56,12 @@ self.__precacheManifest = [
     "url": "/static/media/Futura-Bold.a21afac9.woff2"
   },
   {
-    "revision": "4a3d46ce44b11a8781b84bb139c1f852",
-    "url": "/static/media/Futura-Bold.4a3d46ce.woff"
+    "revision": "0a00c772e65385476877",
+    "url": "/static/js/main.0a00c772.chunk.js"
   },
   {
-    "revision": "ccc327eaefb728fbe5fa1f151c8d7f30",
-    "url": "/static/media/contactForm-bg-logo.ccc327ea.png"
-  },
-  {
-    "revision": "d0c75347f7fbd237a908",
-    "url": "/static/js/main.d0c75347.chunk.js"
+    "revision": "36c249f941086c355d58895812c49f5f",
+    "url": "/static/media/jumbo.36c249f9.png"
   },
   {
     "revision": "67a9a43b5148a909370548a79be9bac6",
@@ -108,19 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/duncan.b204bece.png"
   },
   {
-    "revision": "cfc785f36c7a1ef2824b30a30730c4bf",
-    "url": "/static/media/news-1.cfc785f3.png"
-  },
-  {
-    "revision": "042881a3b996f59579131b0626b7caa0",
-    "url": "/static/media/news-2.042881a3.png"
-  },
-  {
-    "revision": "fb08bc69d6cfcf0672ea7973b234aa6d",
-    "url": "/static/media/news-3.fb08bc69.png"
-  },
-  {
-    "revision": "3d2b59866a4c4cc2c254602dc622c813",
+    "revision": "5c3ba7a894300509f3114011359e7be6",
     "url": "/index.html"
   }
 ];
