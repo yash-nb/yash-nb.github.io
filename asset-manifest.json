@@ -9,7 +9,7 @@
   "static/media/forPharmaClients.png": "/static/media/forPharmaClients.47815cc1.png",
   "static/media/logo.png": "/static/media/logo.c9612e31.png",
   "static/media/section2-left.png": "/static/media/section2-left.63339345.png",
-  "static/media/fonts.css": "/static/media/Futura-Bold.4a3d46ce.woff",
+  "static/media/fonts.css": "/static/media/Futura-Bold.a21afac9.woff2",
   "static/media/contactForm-bg-logo.png": "/static/media/contactForm-bg-logo.ccc327ea.png",
   "static/media/jumbo.png": "/static/media/jumbo.36c249f9.png",
   "static/media/white-logo.png": "/static/media/white-logo.67a9a43b.png",
@@ -25,6 +25,6 @@
   "static/media/duncan.png": "/static/media/duncan.b204bece.png",
   "static/css/main.11222eaf.chunk.css.map": "/static/css/main.11222eaf.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.ec79059a4f28676cb49776cf6d7da2c9.js": "/precache-manifest.ec79059a4f28676cb49776cf6d7da2c9.js",
+  "precache-manifest.966eade2d7fea0113a083d27569a0aa9.js": "/precache-manifest.966eade2d7fea0113a083d27569a0aa9.js",
   "service-worker.js": "/service-worker.js"
 }

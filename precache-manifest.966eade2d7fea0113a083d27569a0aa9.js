@@ -36,24 +36,24 @@ self.__precacheManifest = [
     "url": "/static/media/futura light bt.98d2f973.ttf"
   },
   {
-    "revision": "ee64fb9d3f1ba2333e1b489283925bce",
-    "url": "/static/media/futura medium bt.ee64fb9d.ttf"
-  },
-  {
     "revision": "3ea9695ee3af8a5e17413f22249f361a",
     "url": "/static/media/Futura Heavy font.3ea9695e.ttf"
+  },
+  {
+    "revision": "ee64fb9d3f1ba2333e1b489283925bce",
+    "url": "/static/media/futura medium bt.ee64fb9d.ttf"
   },
   {
     "revision": "9a1626276b430d216809407c3fbcda75",
     "url": "/static/media/futur.9a162627.ttf"
   },
   {
-    "revision": "a21afac968d4c873c5ed7fc86006c2a8",
-    "url": "/static/media/Futura-Bold.a21afac9.woff2"
-  },
-  {
     "revision": "4a3d46ce44b11a8781b84bb139c1f852",
     "url": "/static/media/Futura-Bold.4a3d46ce.woff"
+  },
+  {
+    "revision": "a21afac968d4c873c5ed7fc86006c2a8",
+    "url": "/static/media/Futura-Bold.a21afac9.woff2"
   },
   {
     "revision": "b88822798c399868d303",
