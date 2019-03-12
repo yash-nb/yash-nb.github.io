@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/contactForm-bg-logo.ccc327ea.png"
   },
   {
-    "revision": "0a00c772e65385476877",
+    "revision": "b88822798c399868d303",
     "url": "/static/css/main.11222eaf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "e50cbe76660f46f2e13ef5f39e6dd278",
-    "url": "/static/media/logo.e50cbe76.png"
+    "revision": "c9612e314f3fd09528ffe738e9970145",
+    "url": "/static/media/logo.c9612e31.png"
   },
   {
     "revision": "34e7f9fbf68dc6a17270d5dc834eda30",
@@ -28,20 +28,16 @@ self.__precacheManifest = [
     "url": "/static/media/section2-left.63339345.png"
   },
   {
+    "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
+    "url": "/static/media/Futura Book font.f9f02ed0.ttf"
+  },
+  {
     "revision": "98d2f97305ab25d4511982e73740922e",
     "url": "/static/media/futura light bt.98d2f973.ttf"
   },
   {
-    "revision": "4a3d46ce44b11a8781b84bb139c1f852",
-    "url": "/static/media/Futura-Bold.4a3d46ce.woff"
-  },
-  {
     "revision": "ee64fb9d3f1ba2333e1b489283925bce",
     "url": "/static/media/futura medium bt.ee64fb9d.ttf"
-  },
-  {
-    "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
-    "url": "/static/media/Futura Book font.f9f02ed0.ttf"
   },
   {
     "revision": "3ea9695ee3af8a5e17413f22249f361a",
@@ -56,8 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/Futura-Bold.a21afac9.woff2"
   },
   {
-    "revision": "0a00c772e65385476877",
-    "url": "/static/js/main.0a00c772.chunk.js"
+    "revision": "4a3d46ce44b11a8781b84bb139c1f852",
+    "url": "/static/media/Futura-Bold.4a3d46ce.woff"
+  },
+  {
+    "revision": "b88822798c399868d303",
+    "url": "/static/js/main.b8882279.chunk.js"
   },
   {
     "revision": "36c249f941086c355d58895812c49f5f",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/duncan.b204bece.png"
   },
   {
-    "revision": "5c3ba7a894300509f3114011359e7be6",
+    "revision": "435f26fedfc62ab02ecd8934ad1bd7bf",
     "url": "/index.html"
   }
 ];
